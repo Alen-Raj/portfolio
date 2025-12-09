@@ -2101,13 +2101,14 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:800px) {
   .intro-content {
-    width: 58%;
-    padding-top: 5rem;
+    width: 38%;
+    padding-top: 35rem;
   }
 
   .intro-pic {
-    top: 14%;
-    left: 10%;
+    top: 18%;
+    width: 300px;
+    height: 300px;
   }
 
   .intro-pic::before {
